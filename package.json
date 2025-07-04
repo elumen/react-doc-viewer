@@ -52,7 +52,7 @@
     "ajv": "^7.2.4",
     "core-js": "^3.37.1",
     "mustache": "^4.2.0",
-    "papaparse": "^5.4.1",
+    "papaparse": "^5.5.3",
     "react-pdf": "^9.0.0",
     "styled-components": "^6.1.11"
   },
