@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@types/mustache": "^4.2.5",
-    "@types/papaparse": "^5.3.14",
+    "@types/papaparse": "^5.3.16",
     "ajv": "^7.2.4",
     "core-js": "^3.37.1",
     "mustache": "^4.2.0",
